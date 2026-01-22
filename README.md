@@ -23,7 +23,9 @@
   <a href="mailto:d.semenov7@g.nsu.ru">Email</a>
 </p>
 <br/>
+
 ---
+
 <details>
   <summary><b>More</b></summary>
   <br/>
@@ -35,6 +37,7 @@
   - Main interest: **Machine Learning -> Bayesian Invariant Risk Minimization (BIRM)**
 
 ---
+
 **BIRM - posterior alignment across environments (conceptual illustration)**  
 
 Solid curves depict environment-wise variational posteriors $q_u^{e}(w)$ over a classifier parameter $w$ (one per environment), while the dashed curve depicts the shared posterior $q_u(w)$ inferred across training environments. 
@@ -49,4 +52,5 @@ The animation varies the invariance weight $\lambda$ to visualize the intended e
 </p>
   
 </details>
+
 ---
