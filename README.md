@@ -34,7 +34,7 @@
    
   - I study and research **AI/DS** at **FIT NSU**.
   
-  - Main interest: **Machine Learning -> Bayesian Invariant Risk Minimization (BIRM)**
+  - Main interest: **Machine Learning | Bayesian Invariant Risk Minimization (BIRM)**
 
 ---
 
