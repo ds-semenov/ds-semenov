@@ -5,8 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=600&center=true&vCenter=true&width=900&lines=AI%2FDS+master%27s+student+FIT+NSU+%F0%9F%93%9A" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&center=true&vCenter=true&width=900&lines=Research%3A+Bayesian+Invariant+Risk+Minimization+%F0%9F%94%AC" />
 </p>
-
-
+<br/>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
@@ -18,8 +17,30 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111111" />
 </p>
-
+<br/>
 <p align="center">
   <a href="https://t.me/dxyzsem">Telegram</a> •
   <a href="mailto:d.semenov7@g.nsu.ru">Email</a>
 </p>
+<br/>
+---
+<details>
+  <summary><b>More about me</b></summary>
+  <br/>
+
+  - I currently work as a **Technical Product Manager**.
+   
+  - I study and research **AI/DS** at **FIT NSU**.
+  
+  - Main interest: **Machine Learning -> Bayesian Invariant Risk Minimization (BIRM)**
+
+**BIRM - posterior alignment across environments (conceptual illustration)**  
+Solid curves depict environment-wise variational posteriors $q_u^{e}(w)$ over a classifier parameter $w$ (one per environment), while the dashed curve depicts the shared posterior $q_u(w)$ inferred across training environments. The animation varies the invariance weight $\lambda$ to visualize the intended effect in BIRM: reducing mismatch between $q_u^{e}(w)$ and $q_u(w)$ during optimization. **Paper:** [Lin et al., CVPR 2022 (supplemental)](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lin_Bayesian_Invariant_Risk_CVPR_2022_supplemental.pdf)
+
+<p align="center">
+  <img src="birm.gif" width="820"
+       alt="BIRM: posterior alignment across environments" />
+</p>
+  
+</details>
+---
