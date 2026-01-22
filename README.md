@@ -1,14 +1,4 @@
 <p align="center">
-  <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=750&lines=Hello, I'm Dmitriy Semenov 👋"/>
-    <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=600&center=true&vCenter=true&width=750&lines=Technica+Product+Manager+🚀" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=600&center=true&vCenter=true&width=750&lines=AI/DS+master's+student+@FIT+NSU+📚"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&center=true&vCenter=true&width=750&lines=Research:+Bayesian+Invariant+Risk+Minimization+🔬"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=900&lines=Hello%2C+I%27m+Dmitriy+Semenov+%F0%9F%91%8B" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=600&center=true&vCenter=true&width=900&lines=Technical+Product+Manager+%F0%9F%9A%80" />
